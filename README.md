@@ -73,7 +73,6 @@ The API will be available at `http://localhost:8080`.
 - `GET /books` - List all books
 - `DELETE /books/{isbn}` - Delete a book by ISBN
 
-For detailed information about request/response formats, please refer to the API documentation.
 
 ## Testing
 
